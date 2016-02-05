@@ -34,7 +34,7 @@ public class SportlaseHinded {
         Arrays.sort(tulem);
         double summa = 0;
         double keskmine;
-
+//
         for (int i = 1; i < tulem.length - 1; i++) {
             summa += tulem[i];
 
